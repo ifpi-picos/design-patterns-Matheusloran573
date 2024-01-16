@@ -1,0 +1,3 @@
+class MeuDocumento extends Documento {
+
+}
